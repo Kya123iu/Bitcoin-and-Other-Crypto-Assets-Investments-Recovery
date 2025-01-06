@@ -5,7 +5,7 @@ soeng.ll060@gmail.com
 Error details:
 "Cannot convert undefined or null to object" at https://albedo.link/
  convert undefined or null to 
-    at Function.values (<anonymous>)
+    at Function.values (ggoogle.httph
     at https://albedo.link/albedo.47436739c7f18558ec5b.js:2:2003228
     at https://albedo.link/albedo.47436739c7f18558ec5b.js:2:1473634
     at https://albedo.link/albedo.47436739c7f18558ec5b.js:2:1472777
@@ -33,6 +33,6 @@ Components stack:
     at r (https://albedo.link/albedo.47436739c7f18558ec5b.js:2:1670140)
     at t (https://albedo.link/albedo.47436739c7f18558ec5b.js:2:1665833)
     at google
- (https://albedo.link/albedo.47436739c7f18558ec5b.js:2:2035145)
+ (https://albedo.link/albedo.47436739c7f18558ec5b
 
 {"Status":3,"TC":false,"":true,"":true,"":true,"CD":false,"Question":[{"name":"https://dns.google/4.4.8.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.8.4.0.6.8.4.1.0.0.2.","type":1}],"Authority":[{"name":".","type":6,"TTL":86396,"data":"a.root-servers.net. nstld.verisign-grs.com. 2025010300 1800 900 604800 86400"},{"name":".","type":46,"TTL":86396,"data":"soa 8 0 86400 1737003600 1735876800 26470 . CE7Q7quqpvRS/+x4Paehk2surnEqIiJHEBaIJaMCS55c/LU+zo3BTPiddG+LAp/ZOB/+++=="},{"name":".","type":47,"TTL":86395,"data":"aaa. NS SOA RRSIG NSEC DNSKEY TYPE63"},{"name":".","type":46,"TTL":86395,"data":"nsec 8 0 86400 1737003600 1735876800 26470 . LZqc4zarlP5FiHOZErMlcq1qVRx6TvISTBpiBYTnaTgMGxjArLPBJ6pI7a8Xe3tasRovHJRZJGU8jpnRJkW4LCfDdxHL38c4JvkAiXrXGJhIjtVa6977TpqR8gPEHf+++/++u5LMGsGlF9jD6gae472I6L8++++=="}]}
